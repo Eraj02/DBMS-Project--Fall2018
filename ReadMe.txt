@@ -17,7 +17,7 @@ password: mygym
 member credentials:
 ID: bri@007
 password: heyya
-(Any other ID and respective passoword from
+(Any other ID and respective password from
 dbo.Members will work for member log-in.)
 
 The other option is to sign-up.
